@@ -3212,7 +3212,10 @@ display: 	inline-block;
 padding-right: 	50px;
 
 		}
+.nav-menu-color li a {
+font-weight:700;
 
+}
 
 
 .custom-links
