@@ -2405,7 +2405,6 @@
 		text-align: center;
 		text-decoration: none;
 		white-space: nowrap;
-		text-transform: uppercase;
 	}
 	
 	.donate {
@@ -2431,7 +2430,7 @@
     text-align: center;
     text-decoration: none;
     white-space: nowrap;
-    text-transform: uppercase;
+    
 	}
 
 		input[type="submit"]:hover,
